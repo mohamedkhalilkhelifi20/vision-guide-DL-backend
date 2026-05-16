@@ -1,11 +1,10 @@
 [phases.setup]
-nixPkgs = ["libxcb", "libGL", "glib"]
+nixPkgs = ["libxcb", "libGL", "glib", "libxcb-util"]
 
 [phases.install]
 cmds = [
     "pip install --no-cache-dir -r requirements.txt",
-    "pip uninstall -y opencv-python",
-    "pip install --no-cache-dir opencv-python-headless==4.13.0.92"
+    "pip install --no-cache-dir 'opencv-python-headless==4.13.0.92' --force-reinstall"
 ]
 
 [start]

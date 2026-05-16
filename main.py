@@ -13,31 +13,27 @@ app = FastAPI(
 )
 
 # ── CORS ──────────────────────────────────────────────────────────────────────
-# En local → allow_origins=["*"]
-# En prod  → lire depuis variable d'environnement ALLOWED_ORIGINS
 _raw_origins = os.environ.get("ALLOWED_ORIGINS", "*")
 
 if _raw_origins == "*":
     origins = ["*"]
 else:
-    # format : "https://object-finder.vercel.app,http://localhost:3000"
     origins = [o.strip() for o in _raw_origins.split(",")]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=     origins,
-    allow_credentials= True,
-    allow_methods=     ["*"],
-    allow_headers=     ["*"],
+    allow_origins=origins,  # ✅ utiliser la variable, pas hardcodé
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # ── Startup ───────────────────────────────────────────────────────────────────
 @app.on_event("startup")
 async def startup():
-    load_model()           # YOLOv8n COCO + YOLOv8n Stairs
-    load_all_cnn_models()  # MobileNetV2 (person) + ConvNeXt (stairs)
+    load_model()
+    load_all_cnn_models()
 
-# ── Routes ───────────────────────────────────────────────────────────────────
+# ── Routes ────────────────────────────────────────────────────────────────────
 app.include_router(detect_router, prefix="/api")
 
 @app.get("/")

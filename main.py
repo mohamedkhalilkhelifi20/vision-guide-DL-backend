@@ -22,18 +22,18 @@ else:
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,  # ✅ utiliser la variable, pas hardcodé
+    allow_origins=origins,  #  utiliser la variable, pas hardcodé
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# ── Startup ───────────────────────────────────────────────────────────────────
+# Startup
 @app.on_event("startup")
 async def startup():
     load_model()
     load_all_cnn_models()
 
-# ── Routes ────────────────────────────────────────────────────────────────────
+# Routes
 app.include_router(detect_router, prefix="/api")
 
 @app.get("/")

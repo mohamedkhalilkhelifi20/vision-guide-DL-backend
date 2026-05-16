@@ -1,0 +1,4321 @@
+{
+  "accordion": {
+    "hauteur": 0.5,
+    "fr": "accordéon",
+    "tn": "accordion",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "adhesive tape": {
+    "hauteur": 0.5,
+    "fr": "adhesive tape",
+    "tn": "adhesive tape",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "aircraft": {
+    "hauteur": 0.5,
+    "fr": "aircraft",
+    "tn": "aircraft",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "airplane": {
+    "hauteur": 5.0,
+    "fr": "avion",
+    "tn": "طيارة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "alarm clock": {
+    "hauteur": 0.5,
+    "fr": "réveil",
+    "tn": "alarm clock",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "alpaca": {
+    "hauteur": 0.5,
+    "fr": "alpaca",
+    "tn": "alpaca",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ambulance": {
+    "hauteur": 2.2,
+    "fr": "ambulance",
+    "tn": "سيارة إسعاف",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "animal": {
+    "hauteur": 0.5,
+    "fr": "animal",
+    "tn": "animal",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ant": {
+    "hauteur": 0.5,
+    "fr": "ant",
+    "tn": "ant",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "antelope": {
+    "hauteur": 0.5,
+    "fr": "antelope",
+    "tn": "antelope",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "apple": {
+    "hauteur": 0.08,
+    "fr": "pomme",
+    "tn": "تفاحة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "armadillo": {
+    "hauteur": 0.5,
+    "fr": "armadillo",
+    "tn": "armadillo",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "artichoke": {
+    "hauteur": 0.5,
+    "fr": "artichoke",
+    "tn": "artichoke",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "auto part": {
+    "hauteur": 0.5,
+    "fr": "auto part",
+    "tn": "auto part",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "axe": {
+    "hauteur": 0.5,
+    "fr": "axe",
+    "tn": "axe",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "backpack": {
+    "hauteur": 0.5,
+    "fr": "sac à dos",
+    "tn": "شنطة الضهر",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bagel": {
+    "hauteur": 0.5,
+    "fr": "bagel",
+    "tn": "bagel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "baked goods": {
+    "hauteur": 0.5,
+    "fr": "baked goods",
+    "tn": "baked goods",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "balance beam": {
+    "hauteur": 0.5,
+    "fr": "balance beam",
+    "tn": "balance beam",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ball": {
+    "hauteur": 0.5,
+    "fr": "ball",
+    "tn": "ball",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "balloon": {
+    "hauteur": 0.5,
+    "fr": "ballon",
+    "tn": "بالونة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "banana": {
+    "hauteur": 0.15,
+    "fr": "banane",
+    "tn": "بنان",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "band-aid": {
+    "hauteur": 0.5,
+    "fr": "band-aid",
+    "tn": "band-aid",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "banjo": {
+    "hauteur": 0.5,
+    "fr": "banjo",
+    "tn": "banjo",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "barge": {
+    "hauteur": 0.5,
+    "fr": "barge",
+    "tn": "barge",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "barrel": {
+    "hauteur": 0.5,
+    "fr": "tonneau",
+    "tn": "barrel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "baseball bat": {
+    "hauteur": 0.5,
+    "fr": "baseball bat",
+    "tn": "baseball bat",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "baseball glove": {
+    "hauteur": 0.5,
+    "fr": "baseball glove",
+    "tn": "baseball glove",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bat (animal)": {
+    "hauteur": 0.5,
+    "fr": "bat (animal)",
+    "tn": "bat (animal)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bathroom accessory": {
+    "hauteur": 0.5,
+    "fr": "bathroom accessory",
+    "tn": "bathroom accessory",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bathroom cabinet": {
+    "hauteur": 0.5,
+    "fr": "bathroom cabinet",
+    "tn": "bathroom cabinet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bathtub": {
+    "hauteur": 0.5,
+    "fr": "bathtub",
+    "tn": "bathtub",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "beaker": {
+    "hauteur": 0.5,
+    "fr": "beaker",
+    "tn": "beaker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bear": {
+    "hauteur": 1.2,
+    "fr": "ours",
+    "tn": "دب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bed": {
+    "hauteur": 0.6,
+    "fr": "lit",
+    "tn": "سرير",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bee": {
+    "hauteur": 0.5,
+    "fr": "bee",
+    "tn": "bee",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "beehive": {
+    "hauteur": 0.5,
+    "fr": "beehive",
+    "tn": "beehive",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "beer": {
+    "hauteur": 0.5,
+    "fr": "beer",
+    "tn": "beer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "beetle": {
+    "hauteur": 0.5,
+    "fr": "beetle",
+    "tn": "beetle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bell pepper": {
+    "hauteur": 0.5,
+    "fr": "bell pepper",
+    "tn": "bell pepper",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "belt": {
+    "hauteur": 0.5,
+    "fr": "ceinture",
+    "tn": "سانطور",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bench": {
+    "hauteur": 0.8,
+    "fr": "banc",
+    "tn": "بنكيت",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bicycle": {
+    "hauteur": 1.1,
+    "fr": "vélo",
+    "tn": "بيسكليت",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bicycle helmet": {
+    "hauteur": 0.25,
+    "fr": "casque vélo",
+    "tn": "bicycle helmet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bicycle wheel": {
+    "hauteur": 0.5,
+    "fr": "bicycle wheel",
+    "tn": "bicycle wheel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bidet": {
+    "hauteur": 0.5,
+    "fr": "bidet",
+    "tn": "bidet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "billboard": {
+    "hauteur": 0.5,
+    "fr": "panneau publicitaire",
+    "tn": "billboard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "billiard table": {
+    "hauteur": 0.5,
+    "fr": "billiard table",
+    "tn": "billiard table",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "binoculars": {
+    "hauteur": 0.5,
+    "fr": "binoculars",
+    "tn": "binoculars",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bird": {
+    "hauteur": 0.2,
+    "fr": "oiseau",
+    "tn": "طير",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "blender": {
+    "hauteur": 0.5,
+    "fr": "mixeur",
+    "tn": "blender",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "blue jay": {
+    "hauteur": 0.5,
+    "fr": "blue jay",
+    "tn": "blue jay",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "boat": {
+    "hauteur": 1.5,
+    "fr": "bateau",
+    "tn": "قارب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bomb": {
+    "hauteur": 0.5,
+    "fr": "bomb",
+    "tn": "bomb",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "book": {
+    "hauteur": 0.25,
+    "fr": "livre",
+    "tn": "كتاب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bookcase": {
+    "hauteur": 0.5,
+    "fr": "bookcase",
+    "tn": "bookcase",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "boot": {
+    "hauteur": 0.5,
+    "fr": "botte",
+    "tn": "boot",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bottle": {
+    "hauteur": 0.25,
+    "fr": "bouteille",
+    "tn": "قرعة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bottle opener": {
+    "hauteur": 0.5,
+    "fr": "bottle opener",
+    "tn": "bottle opener",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bow and arrow": {
+    "hauteur": 0.5,
+    "fr": "bow and arrow",
+    "tn": "bow and arrow",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bowl": {
+    "hauteur": 0.1,
+    "fr": "bol",
+    "tn": "طاسة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bowling equipment": {
+    "hauteur": 0.5,
+    "fr": "bowling equipment",
+    "tn": "bowling equipment",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "box": {
+    "hauteur": 0.5,
+    "fr": "box",
+    "tn": "box",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "boy": {
+    "hauteur": 1.2,
+    "fr": "garçon",
+    "tn": "ولد",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "brassiere": {
+    "hauteur": 0.5,
+    "fr": "brassiere",
+    "tn": "brassiere",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bread": {
+    "hauteur": 0.5,
+    "fr": "pain",
+    "tn": "خبز",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "briefcase": {
+    "hauteur": 0.5,
+    "fr": "mallette",
+    "tn": "briefcase",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "broccoli": {
+    "hauteur": 0.5,
+    "fr": "brocoli",
+    "tn": "broccoli",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bronze sculpture": {
+    "hauteur": 0.5,
+    "fr": "bronze sculpture",
+    "tn": "bronze sculpture",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "brown bear": {
+    "hauteur": 0.5,
+    "fr": "brown bear",
+    "tn": "brown bear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "building": {
+    "hauteur": 15.0,
+    "fr": "bâtiment",
+    "tn": "عمارة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bull": {
+    "hauteur": 0.5,
+    "fr": "bull",
+    "tn": "bull",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "burrito": {
+    "hauteur": 0.5,
+    "fr": "burrito",
+    "tn": "burrito",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "bus": {
+    "hauteur": 3.0,
+    "fr": "bus",
+    "tn": "كار",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "bust": {
+    "hauteur": 0.5,
+    "fr": "bust",
+    "tn": "bust",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "butterfly": {
+    "hauteur": 0.5,
+    "fr": "butterfly",
+    "tn": "butterfly",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cabbage": {
+    "hauteur": 0.5,
+    "fr": "cabbage",
+    "tn": "cabbage",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cabinetry": {
+    "hauteur": 0.5,
+    "fr": "cabinetry",
+    "tn": "cabinetry",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cake": {
+    "hauteur": 0.15,
+    "fr": "gâteau",
+    "tn": "كاتو",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "cake stand": {
+    "hauteur": 0.5,
+    "fr": "cake stand",
+    "tn": "cake stand",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "calculator": {
+    "hauteur": 0.5,
+    "fr": "calculatrice",
+    "tn": "calculator",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "camel": {
+    "hauteur": 0.5,
+    "fr": "camel",
+    "tn": "camel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "camera": {
+    "hauteur": 0.5,
+    "fr": "caméra",
+    "tn": "كاميرا",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "can opener": {
+    "hauteur": 0.5,
+    "fr": "can opener",
+    "tn": "can opener",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "canary": {
+    "hauteur": 0.5,
+    "fr": "canary",
+    "tn": "canary",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "candle": {
+    "hauteur": 0.2,
+    "fr": "bougie",
+    "tn": "شمعة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "candy": {
+    "hauteur": 0.5,
+    "fr": "candy",
+    "tn": "candy",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cannon": {
+    "hauteur": 0.5,
+    "fr": "cannon",
+    "tn": "cannon",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "canoe": {
+    "hauteur": 0.5,
+    "fr": "canoë",
+    "tn": "canoe",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cantaloupe": {
+    "hauteur": 0.5,
+    "fr": "cantaloupe",
+    "tn": "cantaloupe",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "car": {
+    "hauteur": 1.5,
+    "fr": "voiture",
+    "tn": "كرهبة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "carnivore": {
+    "hauteur": 0.5,
+    "fr": "carnivore",
+    "tn": "carnivore",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "carrot": {
+    "hauteur": 0.5,
+    "fr": "carotte",
+    "tn": "carrot",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "cart": {
+    "hauteur": 0.5,
+    "fr": "cart",
+    "tn": "cart",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cassette deck": {
+    "hauteur": 0.5,
+    "fr": "cassette deck",
+    "tn": "cassette deck",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "castle": {
+    "hauteur": 0.5,
+    "fr": "château",
+    "tn": "castle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cat": {
+    "hauteur": 0.25,
+    "fr": "chat",
+    "tn": "قطوس",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "cat furniture": {
+    "hauteur": 0.5,
+    "fr": "cat furniture",
+    "tn": "cat furniture",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "caterpillar": {
+    "hauteur": 0.5,
+    "fr": "caterpillar",
+    "tn": "caterpillar",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cattle": {
+    "hauteur": 1.4,
+    "fr": "vache",
+    "tn": "بقرة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ceiling fan": {
+    "hauteur": 0.5,
+    "fr": "ventilateur de plafond",
+    "tn": "ceiling fan",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cell phone": {
+    "hauteur": 0.5,
+    "fr": "cell phone",
+    "tn": "cell phone",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "cello": {
+    "hauteur": 0.5,
+    "fr": "cello",
+    "tn": "cello",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "centipede": {
+    "hauteur": 0.5,
+    "fr": "centipede",
+    "tn": "centipede",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chainsaw": {
+    "hauteur": 0.5,
+    "fr": "chainsaw",
+    "tn": "chainsaw",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chair": {
+    "hauteur": 0.9,
+    "fr": "chaise",
+    "tn": "كرسي",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "cheese": {
+    "hauteur": 0.5,
+    "fr": "fromage",
+    "tn": "cheese",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cheetah": {
+    "hauteur": 0.5,
+    "fr": "cheetah",
+    "tn": "cheetah",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chest of drawers": {
+    "hauteur": 0.5,
+    "fr": "chest of drawers",
+    "tn": "chest of drawers",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chicken": {
+    "hauteur": 0.5,
+    "fr": "chicken",
+    "tn": "chicken",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chime": {
+    "hauteur": 0.5,
+    "fr": "chime",
+    "tn": "chime",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chisel": {
+    "hauteur": 0.5,
+    "fr": "chisel",
+    "tn": "chisel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "chopsticks": {
+    "hauteur": 0.5,
+    "fr": "chopsticks",
+    "tn": "chopsticks",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "christmas tree": {
+    "hauteur": 0.5,
+    "fr": "sapin de noël",
+    "tn": "christmas tree",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "clock": {
+    "hauteur": 0.3,
+    "fr": "horloge",
+    "tn": "ساعة حيط",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "closet": {
+    "hauteur": 0.5,
+    "fr": "closet",
+    "tn": "closet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "clothing": {
+    "hauteur": 0.5,
+    "fr": "clothing",
+    "tn": "clothing",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coat": {
+    "hauteur": 0.5,
+    "fr": "manteau",
+    "tn": "كابوط",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cocktail": {
+    "hauteur": 0.5,
+    "fr": "cocktail",
+    "tn": "cocktail",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cocktail shaker": {
+    "hauteur": 0.5,
+    "fr": "cocktail shaker",
+    "tn": "cocktail shaker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coconut": {
+    "hauteur": 0.5,
+    "fr": "coconut",
+    "tn": "coconut",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coffee": {
+    "hauteur": 0.5,
+    "fr": "coffee",
+    "tn": "coffee",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coffee cup": {
+    "hauteur": 0.5,
+    "fr": "coffee cup",
+    "tn": "coffee cup",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coffee table": {
+    "hauteur": 0.5,
+    "fr": "coffee table",
+    "tn": "coffee table",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coffeemaker": {
+    "hauteur": 0.5,
+    "fr": "coffeemaker",
+    "tn": "coffeemaker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "coin": {
+    "hauteur": 0.5,
+    "fr": "coin",
+    "tn": "coin",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "common fig": {
+    "hauteur": 0.5,
+    "fr": "common fig",
+    "tn": "common fig",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "common sunflower": {
+    "hauteur": 0.5,
+    "fr": "common sunflower",
+    "tn": "common sunflower",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "computer keyboard": {
+    "hauteur": 0.04,
+    "fr": "clavier",
+    "tn": "كيبورد",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "computer monitor": {
+    "hauteur": 0.5,
+    "fr": "computer monitor",
+    "tn": "computer monitor",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "computer mouse": {
+    "hauteur": 0.04,
+    "fr": "souris",
+    "tn": "سوريس",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "container": {
+    "hauteur": 0.5,
+    "fr": "container",
+    "tn": "container",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "convenience store": {
+    "hauteur": 0.5,
+    "fr": "convenience store",
+    "tn": "convenience store",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cookie": {
+    "hauteur": 0.5,
+    "fr": "cookie",
+    "tn": "cookie",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cooking spray": {
+    "hauteur": 0.5,
+    "fr": "cooking spray",
+    "tn": "cooking spray",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "corded phone": {
+    "hauteur": 0.5,
+    "fr": "corded phone",
+    "tn": "corded phone",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cosmetics": {
+    "hauteur": 0.5,
+    "fr": "cosmetics",
+    "tn": "cosmetics",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "couch": {
+    "hauteur": 0.85,
+    "fr": "canapé",
+    "tn": "كنابي",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "countertop": {
+    "hauteur": 0.5,
+    "fr": "countertop",
+    "tn": "countertop",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cow": {
+    "hauteur": 0.5,
+    "fr": "cow",
+    "tn": "cow",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "cowboy hat": {
+    "hauteur": 0.5,
+    "fr": "cowboy hat",
+    "tn": "cowboy hat",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "crab": {
+    "hauteur": 0.5,
+    "fr": "crab",
+    "tn": "crab",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cream": {
+    "hauteur": 0.5,
+    "fr": "cream",
+    "tn": "cream",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cricket ball": {
+    "hauteur": 0.5,
+    "fr": "cricket ball",
+    "tn": "cricket ball",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "crocodile": {
+    "hauteur": 0.5,
+    "fr": "crocodile",
+    "tn": "crocodile",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "croissant": {
+    "hauteur": 0.5,
+    "fr": "croissant",
+    "tn": "croissant",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "crown": {
+    "hauteur": 0.5,
+    "fr": "crown",
+    "tn": "crown",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "crutch": {
+    "hauteur": 0.5,
+    "fr": "crutch",
+    "tn": "crutch",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cucumber": {
+    "hauteur": 0.5,
+    "fr": "concombre",
+    "tn": "cucumber",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cup": {
+    "hauteur": 0.12,
+    "fr": "tasse",
+    "tn": "كاسة",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "cupboard": {
+    "hauteur": 0.5,
+    "fr": "cupboard",
+    "tn": "cupboard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "curtain": {
+    "hauteur": 0.5,
+    "fr": "rideau",
+    "tn": "curtain",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "cutting board": {
+    "hauteur": 0.5,
+    "fr": "cutting board",
+    "tn": "cutting board",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dagger": {
+    "hauteur": 0.5,
+    "fr": "dagger",
+    "tn": "dagger",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dairy product": {
+    "hauteur": 0.5,
+    "fr": "dairy product",
+    "tn": "dairy product",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "deer": {
+    "hauteur": 0.5,
+    "fr": "cerf",
+    "tn": "deer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "desk": {
+    "hauteur": 0.75,
+    "fr": "bureau",
+    "tn": "بيرو",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dessert": {
+    "hauteur": 0.5,
+    "fr": "dessert",
+    "tn": "dessert",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "diaper": {
+    "hauteur": 0.5,
+    "fr": "diaper",
+    "tn": "diaper",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dice": {
+    "hauteur": 0.5,
+    "fr": "dice",
+    "tn": "dice",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "digital clock": {
+    "hauteur": 0.5,
+    "fr": "digital clock",
+    "tn": "digital clock",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dining table": {
+    "hauteur": 0.5,
+    "fr": "dining table",
+    "tn": "dining table",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "dinosaur": {
+    "hauteur": 0.5,
+    "fr": "dinosaur",
+    "tn": "dinosaur",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dishwasher": {
+    "hauteur": 0.85,
+    "fr": "lave-vaisselle",
+    "tn": "dishwasher",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dog": {
+    "hauteur": 0.5,
+    "fr": "chien",
+    "tn": "كلب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "dog bed": {
+    "hauteur": 0.5,
+    "fr": "dog bed",
+    "tn": "dog bed",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "doll": {
+    "hauteur": 0.5,
+    "fr": "poupée",
+    "tn": "doll",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dolphin": {
+    "hauteur": 0.5,
+    "fr": "dolphin",
+    "tn": "dolphin",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "donut": {
+    "hauteur": 0.5,
+    "fr": "donut",
+    "tn": "donut",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "door": {
+    "hauteur": 2.0,
+    "fr": "porte",
+    "tn": "باب",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "door handle": {
+    "hauteur": 0.5,
+    "fr": "door handle",
+    "tn": "door handle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dragonfly": {
+    "hauteur": 0.5,
+    "fr": "dragonfly",
+    "tn": "dragonfly",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "drawer": {
+    "hauteur": 0.5,
+    "fr": "drawer",
+    "tn": "drawer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dress": {
+    "hauteur": 0.5,
+    "fr": "robe",
+    "tn": "روبة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "drill (tool)": {
+    "hauteur": 0.5,
+    "fr": "drill (tool)",
+    "tn": "drill (tool)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "drink": {
+    "hauteur": 0.5,
+    "fr": "drink",
+    "tn": "drink",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "drinking straw": {
+    "hauteur": 0.5,
+    "fr": "drinking straw",
+    "tn": "drinking straw",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "drum": {
+    "hauteur": 0.5,
+    "fr": "tambour",
+    "tn": "طبلة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "duck": {
+    "hauteur": 0.5,
+    "fr": "canard",
+    "tn": "بطة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "dumbbell": {
+    "hauteur": 0.5,
+    "fr": "dumbbell",
+    "tn": "dumbbell",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "eagle": {
+    "hauteur": 0.5,
+    "fr": "aigle",
+    "tn": "eagle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "earrings": {
+    "hauteur": 0.5,
+    "fr": "earrings",
+    "tn": "earrings",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "egg (food)": {
+    "hauteur": 0.5,
+    "fr": "œuf",
+    "tn": "بيضة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "elephant": {
+    "hauteur": 3.0,
+    "fr": "éléphant",
+    "tn": "فيل",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "envelope": {
+    "hauteur": 0.5,
+    "fr": "enveloppe",
+    "tn": "envelope",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "eraser": {
+    "hauteur": 0.5,
+    "fr": "eraser",
+    "tn": "eraser",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "face powder": {
+    "hauteur": 0.5,
+    "fr": "face powder",
+    "tn": "face powder",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "facial tissue holder": {
+    "hauteur": 0.5,
+    "fr": "facial tissue holder",
+    "tn": "facial tissue holder",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "falcon": {
+    "hauteur": 0.5,
+    "fr": "falcon",
+    "tn": "falcon",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fashion accessory": {
+    "hauteur": 0.5,
+    "fr": "fashion accessory",
+    "tn": "fashion accessory",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fast food": {
+    "hauteur": 0.5,
+    "fr": "fast food",
+    "tn": "fast food",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fax": {
+    "hauteur": 0.5,
+    "fr": "fax",
+    "tn": "fax",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fedora": {
+    "hauteur": 0.5,
+    "fr": "fedora",
+    "tn": "fedora",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "filing cabinet": {
+    "hauteur": 0.5,
+    "fr": "filing cabinet",
+    "tn": "filing cabinet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fire hydrant": {
+    "hauteur": 0.7,
+    "fr": "bouche d'incendie",
+    "tn": "بوبينة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "fireplace": {
+    "hauteur": 0.5,
+    "fr": "fireplace",
+    "tn": "fireplace",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fish": {
+    "hauteur": 0.5,
+    "fr": "fish",
+    "tn": "fish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flag": {
+    "hauteur": 0.5,
+    "fr": "drapeau",
+    "tn": "علم",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flashlight": {
+    "hauteur": 0.5,
+    "fr": "lampe de poche",
+    "tn": "flashlight",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flower": {
+    "hauteur": 0.4,
+    "fr": "fleur",
+    "tn": "وردة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flowerpot": {
+    "hauteur": 0.5,
+    "fr": "flowerpot",
+    "tn": "flowerpot",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flute": {
+    "hauteur": 0.5,
+    "fr": "flute",
+    "tn": "flute",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "flying disc": {
+    "hauteur": 0.5,
+    "fr": "flying disc",
+    "tn": "flying disc",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "food": {
+    "hauteur": 0.5,
+    "fr": "food",
+    "tn": "food",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "food processor": {
+    "hauteur": 0.5,
+    "fr": "food processor",
+    "tn": "food processor",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "football": {
+    "hauteur": 0.5,
+    "fr": "football",
+    "tn": "football",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "football helmet": {
+    "hauteur": 0.5,
+    "fr": "football helmet",
+    "tn": "football helmet",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "footwear": {
+    "hauteur": 0.5,
+    "fr": "footwear",
+    "tn": "footwear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fork": {
+    "hauteur": 0.18,
+    "fr": "fourchette",
+    "tn": "فرشيطة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "fountain": {
+    "hauteur": 0.5,
+    "fr": "fountain",
+    "tn": "fountain",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fox": {
+    "hauteur": 0.5,
+    "fr": "fox",
+    "tn": "fox",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "french fries": {
+    "hauteur": 0.5,
+    "fr": "french fries",
+    "tn": "french fries",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "french horn": {
+    "hauteur": 0.5,
+    "fr": "french horn",
+    "tn": "french horn",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "frisbee": {
+    "hauteur": 0.5,
+    "fr": "frisbee",
+    "tn": "frisbee",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "frog": {
+    "hauteur": 0.5,
+    "fr": "frog",
+    "tn": "frog",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "fruit": {
+    "hauteur": 0.5,
+    "fr": "fruit",
+    "tn": "fruit",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "frying pan": {
+    "hauteur": 0.5,
+    "fr": "poêle",
+    "tn": "frying pan",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "furniture": {
+    "hauteur": 0.5,
+    "fr": "furniture",
+    "tn": "furniture",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "garden asparagus": {
+    "hauteur": 0.5,
+    "fr": "garden asparagus",
+    "tn": "garden asparagus",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "gas stove": {
+    "hauteur": 0.5,
+    "fr": "gas stove",
+    "tn": "gas stove",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "giraffe": {
+    "hauteur": 4.5,
+    "fr": "girafe",
+    "tn": "زرافة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "girl": {
+    "hauteur": 1.15,
+    "fr": "fille",
+    "tn": "بنت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "glasses": {
+    "hauteur": 0.05,
+    "fr": "lunettes",
+    "tn": "نضارة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "glove": {
+    "hauteur": 0.5,
+    "fr": "glove",
+    "tn": "glove",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "goat": {
+    "hauteur": 0.5,
+    "fr": "goat",
+    "tn": "goat",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "goggles": {
+    "hauteur": 0.5,
+    "fr": "goggles",
+    "tn": "goggles",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "goldfish": {
+    "hauteur": 0.5,
+    "fr": "poisson rouge",
+    "tn": "goldfish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "golf ball": {
+    "hauteur": 0.5,
+    "fr": "golf ball",
+    "tn": "golf ball",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "golf cart": {
+    "hauteur": 0.5,
+    "fr": "golf cart",
+    "tn": "golf cart",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "gondola": {
+    "hauteur": 0.5,
+    "fr": "gondola",
+    "tn": "gondola",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "goose": {
+    "hauteur": 0.5,
+    "fr": "goose",
+    "tn": "goose",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "grape": {
+    "hauteur": 0.5,
+    "fr": "raisin",
+    "tn": "grape",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "grapefruit": {
+    "hauteur": 0.5,
+    "fr": "grapefruit",
+    "tn": "grapefruit",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "grinder": {
+    "hauteur": 0.5,
+    "fr": "grinder",
+    "tn": "grinder",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "guacamole": {
+    "hauteur": 0.5,
+    "fr": "guacamole",
+    "tn": "guacamole",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "guitar": {
+    "hauteur": 1.0,
+    "fr": "guitare",
+    "tn": "قيتارة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hair drier": {
+    "hauteur": 0.5,
+    "fr": "hair drier",
+    "tn": "hair drier",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "hair dryer": {
+    "hauteur": 0.25,
+    "fr": "sèche-cheveux",
+    "tn": "hair dryer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hair spray": {
+    "hauteur": 0.5,
+    "fr": "hair spray",
+    "tn": "hair spray",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hamburger": {
+    "hauteur": 0.5,
+    "fr": "hamburger",
+    "tn": "هامبرغر",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hammer": {
+    "hauteur": 0.5,
+    "fr": "marteau",
+    "tn": "hammer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hamster": {
+    "hauteur": 0.5,
+    "fr": "hamster",
+    "tn": "hamster",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hand dryer": {
+    "hauteur": 0.5,
+    "fr": "hand dryer",
+    "tn": "hand dryer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "handbag": {
+    "hauteur": 0.35,
+    "fr": "sac à main",
+    "tn": "شنطة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "handgun": {
+    "hauteur": 0.5,
+    "fr": "handgun",
+    "tn": "handgun",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "harbor seal": {
+    "hauteur": 0.5,
+    "fr": "harbor seal",
+    "tn": "harbor seal",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "harmonica": {
+    "hauteur": 0.5,
+    "fr": "harmonica",
+    "tn": "harmonica",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "harp": {
+    "hauteur": 0.5,
+    "fr": "harp",
+    "tn": "harp",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "harpsichord": {
+    "hauteur": 0.5,
+    "fr": "harpsichord",
+    "tn": "harpsichord",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hat": {
+    "hauteur": 0.15,
+    "fr": "chapeau",
+    "tn": "شاشية",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "headphones": {
+    "hauteur": 0.5,
+    "fr": "casque audio",
+    "tn": "headphones",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "heater": {
+    "hauteur": 0.5,
+    "fr": "heater",
+    "tn": "heater",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hedgehog": {
+    "hauteur": 0.5,
+    "fr": "hedgehog",
+    "tn": "hedgehog",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "helicopter": {
+    "hauteur": 0.5,
+    "fr": "hélicoptère",
+    "tn": "helicopter",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "helmet": {
+    "hauteur": 0.25,
+    "fr": "casque",
+    "tn": "خوذة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "high heels": {
+    "hauteur": 0.5,
+    "fr": "talons hauts",
+    "tn": "high heels",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hiking equipment": {
+    "hauteur": 0.5,
+    "fr": "hiking equipment",
+    "tn": "hiking equipment",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "hippopotamus": {
+    "hauteur": 0.5,
+    "fr": "hippopotamus",
+    "tn": "hippopotamus",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "home appliance": {
+    "hauteur": 0.5,
+    "fr": "home appliance",
+    "tn": "home appliance",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "honeycomb": {
+    "hauteur": 0.5,
+    "fr": "honeycomb",
+    "tn": "honeycomb",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "horizontal bar": {
+    "hauteur": 0.5,
+    "fr": "horizontal bar",
+    "tn": "horizontal bar",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "horse": {
+    "hauteur": 1.6,
+    "fr": "cheval",
+    "tn": "عود",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "hot dog": {
+    "hauteur": 0.5,
+    "fr": "hot-dog",
+    "tn": "hot dog",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "house": {
+    "hauteur": 0.5,
+    "fr": "house",
+    "tn": "house",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "houseplant": {
+    "hauteur": 0.4,
+    "fr": "plante",
+    "tn": "houseplant",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human arm": {
+    "hauteur": 0.5,
+    "fr": "human arm",
+    "tn": "human arm",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human beard": {
+    "hauteur": 0.5,
+    "fr": "human beard",
+    "tn": "human beard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human body": {
+    "hauteur": 0.5,
+    "fr": "human body",
+    "tn": "human body",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human ear": {
+    "hauteur": 0.5,
+    "fr": "human ear",
+    "tn": "human ear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human eye": {
+    "hauteur": 0.5,
+    "fr": "human eye",
+    "tn": "human eye",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human face": {
+    "hauteur": 0.5,
+    "fr": "human face",
+    "tn": "human face",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human foot": {
+    "hauteur": 0.5,
+    "fr": "human foot",
+    "tn": "human foot",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human hair": {
+    "hauteur": 0.5,
+    "fr": "human hair",
+    "tn": "human hair",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human hand": {
+    "hauteur": 0.5,
+    "fr": "human hand",
+    "tn": "human hand",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human head": {
+    "hauteur": 0.5,
+    "fr": "human head",
+    "tn": "human head",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human leg": {
+    "hauteur": 0.5,
+    "fr": "human leg",
+    "tn": "human leg",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human mouth": {
+    "hauteur": 0.5,
+    "fr": "human mouth",
+    "tn": "human mouth",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "human nose": {
+    "hauteur": 0.5,
+    "fr": "human nose",
+    "tn": "human nose",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "humidifier": {
+    "hauteur": 0.5,
+    "fr": "humidifier",
+    "tn": "humidifier",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ice cream": {
+    "hauteur": 0.5,
+    "fr": "glace",
+    "tn": "آيس كريم",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "indoor rower": {
+    "hauteur": 0.5,
+    "fr": "indoor rower",
+    "tn": "indoor rower",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "infant bed": {
+    "hauteur": 0.5,
+    "fr": "infant bed",
+    "tn": "infant bed",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "insect": {
+    "hauteur": 0.5,
+    "fr": "insect",
+    "tn": "insect",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "invertebrate": {
+    "hauteur": 0.5,
+    "fr": "invertebrate",
+    "tn": "invertebrate",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ipod": {
+    "hauteur": 0.5,
+    "fr": "ipod",
+    "tn": "ipod",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "isopod": {
+    "hauteur": 0.5,
+    "fr": "isopod",
+    "tn": "isopod",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jacket": {
+    "hauteur": 0.5,
+    "fr": "veste",
+    "tn": "جاكيت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jacuzzi": {
+    "hauteur": 0.5,
+    "fr": "jacuzzi",
+    "tn": "jacuzzi",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jaguar (animal)": {
+    "hauteur": 0.5,
+    "fr": "jaguar (animal)",
+    "tn": "jaguar (animal)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jeans": {
+    "hauteur": 0.5,
+    "fr": "jeans",
+    "tn": "جينز",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jellyfish": {
+    "hauteur": 0.5,
+    "fr": "jellyfish",
+    "tn": "jellyfish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jet ski": {
+    "hauteur": 0.5,
+    "fr": "jet ski",
+    "tn": "jet ski",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "jug": {
+    "hauteur": 0.5,
+    "fr": "jug",
+    "tn": "jug",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "juice": {
+    "hauteur": 0.5,
+    "fr": "juice",
+    "tn": "juice",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kangaroo": {
+    "hauteur": 0.5,
+    "fr": "kangaroo",
+    "tn": "kangaroo",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kettle": {
+    "hauteur": 0.5,
+    "fr": "bouilloire",
+    "tn": "برادة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "keyboard": {
+    "hauteur": 0.5,
+    "fr": "keyboard",
+    "tn": "keyboard",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "kitchen & dining room table": {
+    "hauteur": 0.5,
+    "fr": "kitchen & dining room table",
+    "tn": "kitchen & dining room table",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kitchen appliance": {
+    "hauteur": 0.5,
+    "fr": "kitchen appliance",
+    "tn": "kitchen appliance",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kitchen knife": {
+    "hauteur": 0.5,
+    "fr": "kitchen knife",
+    "tn": "kitchen knife",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kitchen utensil": {
+    "hauteur": 0.5,
+    "fr": "kitchen utensil",
+    "tn": "kitchen utensil",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kitchenware": {
+    "hauteur": 0.5,
+    "fr": "kitchenware",
+    "tn": "kitchenware",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "kite": {
+    "hauteur": 0.5,
+    "fr": "cerf-volant",
+    "tn": "kite",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "knife": {
+    "hauteur": 0.2,
+    "fr": "couteau",
+    "tn": "موس",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "koala": {
+    "hauteur": 0.5,
+    "fr": "koala",
+    "tn": "koala",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ladder": {
+    "hauteur": 2.5,
+    "fr": "échelle",
+    "tn": "ladder",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ladle": {
+    "hauteur": 0.5,
+    "fr": "ladle",
+    "tn": "ladle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ladybug": {
+    "hauteur": 0.5,
+    "fr": "ladybug",
+    "tn": "ladybug",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lamp": {
+    "hauteur": 0.5,
+    "fr": "lampe",
+    "tn": "لمبة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "land vehicle": {
+    "hauteur": 0.5,
+    "fr": "land vehicle",
+    "tn": "land vehicle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lantern": {
+    "hauteur": 0.5,
+    "fr": "lantern",
+    "tn": "lantern",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "laptop": {
+    "hauteur": 0.25,
+    "fr": "ordinateur portable",
+    "tn": "لابتوب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "lavender (plant)": {
+    "hauteur": 0.5,
+    "fr": "lavender (plant)",
+    "tn": "lavender (plant)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lemon": {
+    "hauteur": 0.5,
+    "fr": "citron",
+    "tn": "حامض",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "leopard": {
+    "hauteur": 0.5,
+    "fr": "léopard",
+    "tn": "leopard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "light bulb": {
+    "hauteur": 0.5,
+    "fr": "light bulb",
+    "tn": "light bulb",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "light switch": {
+    "hauteur": 0.5,
+    "fr": "light switch",
+    "tn": "light switch",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lighthouse": {
+    "hauteur": 0.5,
+    "fr": "lighthouse",
+    "tn": "lighthouse",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lily": {
+    "hauteur": 0.5,
+    "fr": "lily",
+    "tn": "lily",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "limousine": {
+    "hauteur": 0.5,
+    "fr": "limousine",
+    "tn": "limousine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lion": {
+    "hauteur": 1.0,
+    "fr": "lion",
+    "tn": "سبع",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lipstick": {
+    "hauteur": 0.5,
+    "fr": "rouge à lèvres",
+    "tn": "lipstick",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lizard": {
+    "hauteur": 0.5,
+    "fr": "lizard",
+    "tn": "lizard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lobster": {
+    "hauteur": 0.5,
+    "fr": "homard",
+    "tn": "lobster",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "loveseat": {
+    "hauteur": 0.5,
+    "fr": "loveseat",
+    "tn": "loveseat",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "luggage and bags": {
+    "hauteur": 0.5,
+    "fr": "luggage and bags",
+    "tn": "luggage and bags",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "lynx": {
+    "hauteur": 0.5,
+    "fr": "lynx",
+    "tn": "lynx",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "magpie": {
+    "hauteur": 0.5,
+    "fr": "magpie",
+    "tn": "magpie",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mammal": {
+    "hauteur": 0.5,
+    "fr": "mammal",
+    "tn": "mammal",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "man": {
+    "hauteur": 1.75,
+    "fr": "homme",
+    "tn": "راجل",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mango": {
+    "hauteur": 0.5,
+    "fr": "mango",
+    "tn": "mango",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "maple": {
+    "hauteur": 0.5,
+    "fr": "maple",
+    "tn": "maple",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "maracas": {
+    "hauteur": 0.5,
+    "fr": "maracas",
+    "tn": "maracas",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "marine invertebrates": {
+    "hauteur": 0.5,
+    "fr": "marine invertebrates",
+    "tn": "marine invertebrates",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "marine mammal": {
+    "hauteur": 0.5,
+    "fr": "marine mammal",
+    "tn": "marine mammal",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "measuring cup": {
+    "hauteur": 0.5,
+    "fr": "measuring cup",
+    "tn": "measuring cup",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mechanical fan": {
+    "hauteur": 0.5,
+    "fr": "mechanical fan",
+    "tn": "mechanical fan",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "medical equipment": {
+    "hauteur": 0.5,
+    "fr": "medical equipment",
+    "tn": "medical equipment",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "microphone": {
+    "hauteur": 0.5,
+    "fr": "microphone",
+    "tn": "ميكرو",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "microwave": {
+    "hauteur": 0.5,
+    "fr": "microwave",
+    "tn": "microwave",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "microwave oven": {
+    "hauteur": 0.3,
+    "fr": "micro-ondes",
+    "tn": "ميكرو",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "milk": {
+    "hauteur": 0.5,
+    "fr": "milk",
+    "tn": "milk",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "miniskirt": {
+    "hauteur": 0.5,
+    "fr": "miniskirt",
+    "tn": "miniskirt",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mirror": {
+    "hauteur": 1.2,
+    "fr": "miroir",
+    "tn": "مراية",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "missile": {
+    "hauteur": 0.5,
+    "fr": "missile",
+    "tn": "missile",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mixer": {
+    "hauteur": 0.5,
+    "fr": "mixer",
+    "tn": "mixer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mixing bowl": {
+    "hauteur": 0.5,
+    "fr": "mixing bowl",
+    "tn": "mixing bowl",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mobile phone": {
+    "hauteur": 0.15,
+    "fr": "téléphone",
+    "tn": "تيليفون",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "monkey": {
+    "hauteur": 0.5,
+    "fr": "singe",
+    "tn": "قرد",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "moths and butterflies": {
+    "hauteur": 0.5,
+    "fr": "moths and butterflies",
+    "tn": "moths and butterflies",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "motorcycle": {
+    "hauteur": 1.1,
+    "fr": "moto",
+    "tn": "موتو",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "mouse": {
+    "hauteur": 0.5,
+    "fr": "mouse",
+    "tn": "mouse",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "muffin": {
+    "hauteur": 0.5,
+    "fr": "muffin",
+    "tn": "muffin",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mug": {
+    "hauteur": 0.5,
+    "fr": "mug",
+    "tn": "ماق",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mule": {
+    "hauteur": 0.5,
+    "fr": "mule",
+    "tn": "mule",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "mushroom": {
+    "hauteur": 0.5,
+    "fr": "champignon",
+    "tn": "فقع",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "musical instrument": {
+    "hauteur": 0.5,
+    "fr": "musical instrument",
+    "tn": "musical instrument",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "musical keyboard": {
+    "hauteur": 0.5,
+    "fr": "musical keyboard",
+    "tn": "musical keyboard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "nail (construction)": {
+    "hauteur": 0.5,
+    "fr": "nail (construction)",
+    "tn": "nail (construction)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "necklace": {
+    "hauteur": 0.5,
+    "fr": "collier",
+    "tn": "قلادة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "nightstand": {
+    "hauteur": 0.5,
+    "fr": "nightstand",
+    "tn": "nightstand",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "oboe": {
+    "hauteur": 0.5,
+    "fr": "oboe",
+    "tn": "oboe",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "office building": {
+    "hauteur": 0.5,
+    "fr": "office building",
+    "tn": "office building",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "office supplies": {
+    "hauteur": 0.5,
+    "fr": "office supplies",
+    "tn": "office supplies",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "orange": {
+    "hauteur": 0.08,
+    "fr": "orange",
+    "tn": "ليمون",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "organ (musical instrument)": {
+    "hauteur": 0.5,
+    "fr": "organ (musical instrument)",
+    "tn": "organ (musical instrument)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ostrich": {
+    "hauteur": 0.5,
+    "fr": "autruche",
+    "tn": "ostrich",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "otter": {
+    "hauteur": 0.5,
+    "fr": "otter",
+    "tn": "otter",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "oven": {
+    "hauteur": 0.6,
+    "fr": "four",
+    "tn": "كوزينة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "owl": {
+    "hauteur": 0.5,
+    "fr": "owl",
+    "tn": "owl",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "oyster": {
+    "hauteur": 0.5,
+    "fr": "oyster",
+    "tn": "oyster",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "paddle": {
+    "hauteur": 0.5,
+    "fr": "paddle",
+    "tn": "paddle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "palm tree": {
+    "hauteur": 0.5,
+    "fr": "palm tree",
+    "tn": "palm tree",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pancake": {
+    "hauteur": 0.5,
+    "fr": "pancake",
+    "tn": "pancake",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "panda": {
+    "hauteur": 0.5,
+    "fr": "panda",
+    "tn": "باندا",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "paper cutter": {
+    "hauteur": 0.5,
+    "fr": "paper cutter",
+    "tn": "paper cutter",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "paper towel": {
+    "hauteur": 0.5,
+    "fr": "paper towel",
+    "tn": "paper towel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "parachute": {
+    "hauteur": 0.5,
+    "fr": "parachute",
+    "tn": "parachute",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "parking meter": {
+    "hauteur": 1.2,
+    "fr": "parcmètre",
+    "tn": "parking meter",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "parrot": {
+    "hauteur": 0.5,
+    "fr": "perroquet",
+    "tn": "ببغاء",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pasta": {
+    "hauteur": 0.5,
+    "fr": "pâtes",
+    "tn": "معكرونة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pastry": {
+    "hauteur": 0.5,
+    "fr": "pastry",
+    "tn": "pastry",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "peach": {
+    "hauteur": 0.5,
+    "fr": "pêche",
+    "tn": "peach",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pear": {
+    "hauteur": 0.5,
+    "fr": "poire",
+    "tn": "pear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pen": {
+    "hauteur": 0.5,
+    "fr": "stylo",
+    "tn": "قلم",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pencil case": {
+    "hauteur": 0.5,
+    "fr": "pencil case",
+    "tn": "pencil case",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pencil sharpener": {
+    "hauteur": 0.5,
+    "fr": "pencil sharpener",
+    "tn": "pencil sharpener",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "penguin": {
+    "hauteur": 0.5,
+    "fr": "pingouin",
+    "tn": "penguin",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "perfume": {
+    "hauteur": 0.5,
+    "fr": "perfume",
+    "tn": "perfume",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "person": {
+    "hauteur": 1.7,
+    "fr": "personne",
+    "tn": "واحد",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "personal care": {
+    "hauteur": 0.5,
+    "fr": "personal care",
+    "tn": "personal care",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "personal flotation device": {
+    "hauteur": 0.5,
+    "fr": "personal flotation device",
+    "tn": "personal flotation device",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "piano": {
+    "hauteur": 1.2,
+    "fr": "piano",
+    "tn": "piano",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "picnic basket": {
+    "hauteur": 0.5,
+    "fr": "picnic basket",
+    "tn": "picnic basket",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "picture frame": {
+    "hauteur": 0.5,
+    "fr": "picture frame",
+    "tn": "picture frame",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pig": {
+    "hauteur": 0.5,
+    "fr": "cochon",
+    "tn": "خنزير",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pillow": {
+    "hauteur": 0.5,
+    "fr": "oreiller",
+    "tn": "مخدة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pineapple": {
+    "hauteur": 0.5,
+    "fr": "ananas",
+    "tn": "أناناس",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pitcher (container)": {
+    "hauteur": 0.5,
+    "fr": "pitcher (container)",
+    "tn": "pitcher (container)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pizza": {
+    "hauteur": 0.05,
+    "fr": "pizza",
+    "tn": "بيتزا",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "pizza cutter": {
+    "hauteur": 0.5,
+    "fr": "pizza cutter",
+    "tn": "pizza cutter",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "plant": {
+    "hauteur": 0.4,
+    "fr": "plant",
+    "tn": "plant",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "plastic bag": {
+    "hauteur": 0.5,
+    "fr": "plastic bag",
+    "tn": "plastic bag",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "plate": {
+    "hauteur": 0.5,
+    "fr": "assiette",
+    "tn": "طبسي",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "platter": {
+    "hauteur": 0.5,
+    "fr": "platter",
+    "tn": "platter",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "plumbing fixture": {
+    "hauteur": 0.5,
+    "fr": "plumbing fixture",
+    "tn": "plumbing fixture",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "polar bear": {
+    "hauteur": 0.5,
+    "fr": "ours polaire",
+    "tn": "polar bear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pomegranate": {
+    "hauteur": 0.5,
+    "fr": "pomegranate",
+    "tn": "pomegranate",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "popcorn": {
+    "hauteur": 0.5,
+    "fr": "popcorn",
+    "tn": "فشار",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "porch": {
+    "hauteur": 0.5,
+    "fr": "porch",
+    "tn": "porch",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "porcupine": {
+    "hauteur": 0.5,
+    "fr": "porcupine",
+    "tn": "porcupine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "poster": {
+    "hauteur": 0.5,
+    "fr": "poster",
+    "tn": "poster",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "potato": {
+    "hauteur": 0.5,
+    "fr": "pomme de terre",
+    "tn": "بطاطا",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "potted plant": {
+    "hauteur": 0.5,
+    "fr": "potted plant",
+    "tn": "potted plant",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "power plugs and sockets": {
+    "hauteur": 0.5,
+    "fr": "power plugs and sockets",
+    "tn": "power plugs and sockets",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pressure cooker": {
+    "hauteur": 0.5,
+    "fr": "pressure cooker",
+    "tn": "pressure cooker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pretzel": {
+    "hauteur": 0.5,
+    "fr": "pretzel",
+    "tn": "pretzel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "printer": {
+    "hauteur": 0.3,
+    "fr": "imprimante",
+    "tn": "printer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "pumpkin": {
+    "hauteur": 0.5,
+    "fr": "citrouille",
+    "tn": "pumpkin",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "punching bag": {
+    "hauteur": 0.5,
+    "fr": "punching bag",
+    "tn": "punching bag",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rabbit": {
+    "hauteur": 0.5,
+    "fr": "lapin",
+    "tn": "قنية",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "raccoon": {
+    "hauteur": 0.5,
+    "fr": "raton laveur",
+    "tn": "raccoon",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "racket": {
+    "hauteur": 0.5,
+    "fr": "racket",
+    "tn": "racket",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "radish": {
+    "hauteur": 0.5,
+    "fr": "radish",
+    "tn": "radish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ratchet (device)": {
+    "hauteur": 0.5,
+    "fr": "ratchet (device)",
+    "tn": "ratchet (device)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "raven": {
+    "hauteur": 0.5,
+    "fr": "raven",
+    "tn": "raven",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rays and skates": {
+    "hauteur": 0.5,
+    "fr": "rays and skates",
+    "tn": "rays and skates",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "red panda": {
+    "hauteur": 0.5,
+    "fr": "red panda",
+    "tn": "red panda",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "refrigerator": {
+    "hauteur": 1.8,
+    "fr": "réfrigérateur",
+    "tn": "فريدجيدار",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "remote": {
+    "hauteur": 0.5,
+    "fr": "remote",
+    "tn": "remote",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "remote control": {
+    "hauteur": 0.5,
+    "fr": "remote control",
+    "tn": "remote control",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "reptile": {
+    "hauteur": 0.5,
+    "fr": "reptile",
+    "tn": "reptile",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rhinoceros": {
+    "hauteur": 0.5,
+    "fr": "rhinoceros",
+    "tn": "rhinoceros",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rifle": {
+    "hauteur": 0.5,
+    "fr": "rifle",
+    "tn": "rifle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ring binder": {
+    "hauteur": 0.5,
+    "fr": "ring binder",
+    "tn": "ring binder",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rocket": {
+    "hauteur": 0.5,
+    "fr": "rocket",
+    "tn": "rocket",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "roller skates": {
+    "hauteur": 0.5,
+    "fr": "roller skates",
+    "tn": "roller skates",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rose": {
+    "hauteur": 0.5,
+    "fr": "rose",
+    "tn": "وردة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "rugby ball": {
+    "hauteur": 0.5,
+    "fr": "rugby ball",
+    "tn": "rugby ball",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "ruler": {
+    "hauteur": 0.5,
+    "fr": "ruler",
+    "tn": "ruler",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "salad": {
+    "hauteur": 0.5,
+    "fr": "salade",
+    "tn": "سلاطة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "salt and pepper shakers": {
+    "hauteur": 0.5,
+    "fr": "salt and pepper shakers",
+    "tn": "salt and pepper shakers",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sandal": {
+    "hauteur": 0.5,
+    "fr": "sandal",
+    "tn": "sandal",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sandwich": {
+    "hauteur": 0.08,
+    "fr": "sandwich",
+    "tn": "كاسكروت",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "saucer": {
+    "hauteur": 0.5,
+    "fr": "saucer",
+    "tn": "saucer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "saxophone": {
+    "hauteur": 0.5,
+    "fr": "saxophone",
+    "tn": "saxophone",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "scale": {
+    "hauteur": 0.5,
+    "fr": "scale",
+    "tn": "scale",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "scarf": {
+    "hauteur": 0.5,
+    "fr": "écharpe",
+    "tn": "إيشارب",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "scissors": {
+    "hauteur": 0.18,
+    "fr": "ciseaux",
+    "tn": "مقص",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "scoreboard": {
+    "hauteur": 0.5,
+    "fr": "tableau de score",
+    "tn": "scoreboard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "scorpion": {
+    "hauteur": 0.5,
+    "fr": "scorpion",
+    "tn": "scorpion",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "screwdriver": {
+    "hauteur": 0.5,
+    "fr": "tournevis",
+    "tn": "screwdriver",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sculpture": {
+    "hauteur": 0.5,
+    "fr": "sculpture",
+    "tn": "sculpture",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sea lion": {
+    "hauteur": 0.5,
+    "fr": "sea lion",
+    "tn": "sea lion",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sea turtle": {
+    "hauteur": 0.5,
+    "fr": "sea turtle",
+    "tn": "sea turtle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "seafood": {
+    "hauteur": 0.5,
+    "fr": "seafood",
+    "tn": "seafood",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "seahorse": {
+    "hauteur": 0.5,
+    "fr": "seahorse",
+    "tn": "seahorse",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "seat belt": {
+    "hauteur": 0.5,
+    "fr": "seat belt",
+    "tn": "seat belt",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "segway": {
+    "hauteur": 0.5,
+    "fr": "segway",
+    "tn": "segway",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "serving tray": {
+    "hauteur": 0.5,
+    "fr": "serving tray",
+    "tn": "serving tray",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sewing machine": {
+    "hauteur": 0.5,
+    "fr": "sewing machine",
+    "tn": "sewing machine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shark": {
+    "hauteur": 0.5,
+    "fr": "requin",
+    "tn": "shark",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sheep": {
+    "hauteur": 0.7,
+    "fr": "mouton",
+    "tn": "خروف",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "shelf": {
+    "hauteur": 1.8,
+    "fr": "étagère",
+    "tn": "رف",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shellfish": {
+    "hauteur": 0.5,
+    "fr": "shellfish",
+    "tn": "shellfish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shirt": {
+    "hauteur": 0.5,
+    "fr": "chemise",
+    "tn": "قميص",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shorts": {
+    "hauteur": 0.5,
+    "fr": "short",
+    "tn": "شورت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shotgun": {
+    "hauteur": 0.5,
+    "fr": "shotgun",
+    "tn": "shotgun",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shower": {
+    "hauteur": 0.5,
+    "fr": "douche",
+    "tn": "دوش",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "shrimp": {
+    "hauteur": 0.5,
+    "fr": "shrimp",
+    "tn": "shrimp",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sink": {
+    "hauteur": 0.2,
+    "fr": "évier",
+    "tn": "حوض",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "skateboard": {
+    "hauteur": 0.15,
+    "fr": "skateboard",
+    "tn": "skateboard",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "ski": {
+    "hauteur": 0.5,
+    "fr": "ski",
+    "tn": "سكي",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "skirt": {
+    "hauteur": 0.5,
+    "fr": "jupe",
+    "tn": "skirt",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "skis": {
+    "hauteur": 0.5,
+    "fr": "skis",
+    "tn": "skis",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "skull": {
+    "hauteur": 0.5,
+    "fr": "skull",
+    "tn": "skull",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "skunk": {
+    "hauteur": 0.5,
+    "fr": "skunk",
+    "tn": "skunk",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "skyscraper": {
+    "hauteur": 0.5,
+    "fr": "gratte-ciel",
+    "tn": "skyscraper",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "slow cooker": {
+    "hauteur": 0.5,
+    "fr": "slow cooker",
+    "tn": "slow cooker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snack": {
+    "hauteur": 0.5,
+    "fr": "snack",
+    "tn": "snack",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snail": {
+    "hauteur": 0.5,
+    "fr": "snail",
+    "tn": "snail",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snake": {
+    "hauteur": 0.5,
+    "fr": "serpent",
+    "tn": "حنش",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snowboard": {
+    "hauteur": 0.5,
+    "fr": "snowboard",
+    "tn": "snowboard",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "snowman": {
+    "hauteur": 0.5,
+    "fr": "bonhomme de neige",
+    "tn": "snowman",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snowmobile": {
+    "hauteur": 0.5,
+    "fr": "snowmobile",
+    "tn": "snowmobile",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "snowplow": {
+    "hauteur": 0.5,
+    "fr": "snowplow",
+    "tn": "snowplow",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "soap dispenser": {
+    "hauteur": 0.5,
+    "fr": "soap dispenser",
+    "tn": "soap dispenser",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sock": {
+    "hauteur": 0.5,
+    "fr": "chaussette",
+    "tn": "شرّاب",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sofa bed": {
+    "hauteur": 0.5,
+    "fr": "sofa bed",
+    "tn": "sofa bed",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sombrero": {
+    "hauteur": 0.5,
+    "fr": "sombrero",
+    "tn": "sombrero",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sparrow": {
+    "hauteur": 0.5,
+    "fr": "sparrow",
+    "tn": "sparrow",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "spatula": {
+    "hauteur": 0.5,
+    "fr": "spatula",
+    "tn": "spatula",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "spice rack": {
+    "hauteur": 0.5,
+    "fr": "spice rack",
+    "tn": "spice rack",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "spider": {
+    "hauteur": 0.5,
+    "fr": "araignée",
+    "tn": "عنكبوت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "spoon": {
+    "hauteur": 0.16,
+    "fr": "cuillère",
+    "tn": "معلقة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "sports ball": {
+    "hauteur": 0.5,
+    "fr": "sports ball",
+    "tn": "sports ball",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "sports equipment": {
+    "hauteur": 0.5,
+    "fr": "sports equipment",
+    "tn": "sports equipment",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sports uniform": {
+    "hauteur": 0.5,
+    "fr": "sports uniform",
+    "tn": "sports uniform",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "squash (plant)": {
+    "hauteur": 0.5,
+    "fr": "squash (plant)",
+    "tn": "squash (plant)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "squid": {
+    "hauteur": 0.5,
+    "fr": "squid",
+    "tn": "squid",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "squirrel": {
+    "hauteur": 0.5,
+    "fr": "écureuil",
+    "tn": "squirrel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stairs": {
+    "hauteur": 1.5,
+    "fr": "escaliers",
+    "tn": "دراج",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stapler": {
+    "hauteur": 0.5,
+    "fr": "agrafeuse",
+    "tn": "stapler",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "starfish": {
+    "hauteur": 0.5,
+    "fr": "starfish",
+    "tn": "starfish",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stationary bicycle": {
+    "hauteur": 0.5,
+    "fr": "stationary bicycle",
+    "tn": "stationary bicycle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stethoscope": {
+    "hauteur": 0.5,
+    "fr": "stethoscope",
+    "tn": "stethoscope",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stool": {
+    "hauteur": 0.6,
+    "fr": "tabouret",
+    "tn": "كرسي صغير",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stop sign": {
+    "hauteur": 0.75,
+    "fr": "panneau stop",
+    "tn": "بلاكا ستوب",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "strawberry": {
+    "hauteur": 0.5,
+    "fr": "fraise",
+    "tn": "فريز",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "street light": {
+    "hauteur": 0.5,
+    "fr": "lampadaire",
+    "tn": "street light",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "stretcher": {
+    "hauteur": 0.5,
+    "fr": "stretcher",
+    "tn": "stretcher",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "studio couch": {
+    "hauteur": 0.5,
+    "fr": "studio couch",
+    "tn": "studio couch",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "submarine": {
+    "hauteur": 0.5,
+    "fr": "submarine",
+    "tn": "submarine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "submarine sandwich": {
+    "hauteur": 0.5,
+    "fr": "submarine sandwich",
+    "tn": "submarine sandwich",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "suit": {
+    "hauteur": 0.5,
+    "fr": "costume",
+    "tn": "كوستيم",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "suitcase": {
+    "hauteur": 0.6,
+    "fr": "valise",
+    "tn": "ڤاليز",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "sun hat": {
+    "hauteur": 0.5,
+    "fr": "sun hat",
+    "tn": "sun hat",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sunglasses": {
+    "hauteur": 0.5,
+    "fr": "sunglasses",
+    "tn": "sunglasses",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "surfboard": {
+    "hauteur": 1.8,
+    "fr": "planche de surf",
+    "tn": "surfboard",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "sushi": {
+    "hauteur": 0.5,
+    "fr": "sushi",
+    "tn": "sushi",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "swan": {
+    "hauteur": 0.5,
+    "fr": "cygne",
+    "tn": "بجعة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "swim cap": {
+    "hauteur": 0.5,
+    "fr": "swim cap",
+    "tn": "swim cap",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "swimming pool": {
+    "hauteur": 0.5,
+    "fr": "piscine",
+    "tn": "swimming pool",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "swimwear": {
+    "hauteur": 0.5,
+    "fr": "swimwear",
+    "tn": "swimwear",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "sword": {
+    "hauteur": 0.5,
+    "fr": "épée",
+    "tn": "سيف",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "syringe": {
+    "hauteur": 0.5,
+    "fr": "syringe",
+    "tn": "syringe",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "table": {
+    "hauteur": 0.75,
+    "fr": "table",
+    "tn": "طاولة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "table tennis racket": {
+    "hauteur": 0.5,
+    "fr": "table tennis racket",
+    "tn": "table tennis racket",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tablet computer": {
+    "hauteur": 0.25,
+    "fr": "tablette",
+    "tn": "tablet computer",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tableware": {
+    "hauteur": 0.5,
+    "fr": "tableware",
+    "tn": "tableware",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "taco": {
+    "hauteur": 0.5,
+    "fr": "taco",
+    "tn": "taco",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tank": {
+    "hauteur": 0.5,
+    "fr": "char",
+    "tn": "tank",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tap": {
+    "hauteur": 0.5,
+    "fr": "tap",
+    "tn": "tap",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tart": {
+    "hauteur": 0.5,
+    "fr": "tart",
+    "tn": "tart",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "taxi": {
+    "hauteur": 1.5,
+    "fr": "taxi",
+    "tn": "تاكسي",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tea": {
+    "hauteur": 0.5,
+    "fr": "tea",
+    "tn": "tea",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "teapot": {
+    "hauteur": 0.5,
+    "fr": "théière",
+    "tn": "برّاد",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "teddy bear": {
+    "hauteur": 0.35,
+    "fr": "peluche",
+    "tn": "دمية",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "telephone": {
+    "hauteur": 0.5,
+    "fr": "téléphone",
+    "tn": "تيليفون",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "television": {
+    "hauteur": 0.6,
+    "fr": "télévision",
+    "tn": "تيلي",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tennis ball": {
+    "hauteur": 0.5,
+    "fr": "tennis ball",
+    "tn": "tennis ball",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tennis racket": {
+    "hauteur": 0.6,
+    "fr": "raquette de tennis",
+    "tn": "tennis racket",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "tent": {
+    "hauteur": 0.5,
+    "fr": "tente",
+    "tn": "خيمة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tiara": {
+    "hauteur": 0.5,
+    "fr": "tiara",
+    "tn": "tiara",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tick": {
+    "hauteur": 0.5,
+    "fr": "tick",
+    "tn": "tick",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tie": {
+    "hauteur": 0.5,
+    "fr": "cravate",
+    "tn": "كرافاط",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "tiger": {
+    "hauteur": 1.0,
+    "fr": "tigre",
+    "tn": "نمر",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tin can": {
+    "hauteur": 0.5,
+    "fr": "tin can",
+    "tn": "tin can",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tire": {
+    "hauteur": 0.5,
+    "fr": "pneu",
+    "tn": "كاوتش",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "toaster": {
+    "hauteur": 0.2,
+    "fr": "grille-pain",
+    "tn": "توستور",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "toilet": {
+    "hauteur": 0.5,
+    "fr": "toilettes",
+    "tn": "بيت الما",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "toilet paper": {
+    "hauteur": 0.5,
+    "fr": "toilet paper",
+    "tn": "toilet paper",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tomato": {
+    "hauteur": 0.5,
+    "fr": "tomate",
+    "tn": "طماطم",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tool": {
+    "hauteur": 0.5,
+    "fr": "tool",
+    "tn": "tool",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "toothbrush": {
+    "hauteur": 0.18,
+    "fr": "brosse à dents",
+    "tn": "فرشة سنان",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "torch": {
+    "hauteur": 0.5,
+    "fr": "torche",
+    "tn": "torch",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tortoise": {
+    "hauteur": 0.5,
+    "fr": "tortue",
+    "tn": "فقرون",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "towel": {
+    "hauteur": 0.8,
+    "fr": "serviette",
+    "tn": "فوطة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tower": {
+    "hauteur": 0.5,
+    "fr": "tower",
+    "tn": "tower",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "toy": {
+    "hauteur": 0.5,
+    "fr": "toy",
+    "tn": "toy",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "traffic light": {
+    "hauteur": 0.6,
+    "fr": "feu de circulation",
+    "tn": "فنار",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "traffic sign": {
+    "hauteur": 0.5,
+    "fr": "traffic sign",
+    "tn": "traffic sign",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "train": {
+    "hauteur": 3.5,
+    "fr": "train",
+    "tn": "تران",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "training bench": {
+    "hauteur": 0.5,
+    "fr": "training bench",
+    "tn": "training bench",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "treadmill": {
+    "hauteur": 0.5,
+    "fr": "tapis roulant",
+    "tn": "treadmill",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tree": {
+    "hauteur": 5.0,
+    "fr": "arbre",
+    "tn": "شجرة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tree house": {
+    "hauteur": 0.5,
+    "fr": "tree house",
+    "tn": "tree house",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tripod": {
+    "hauteur": 0.5,
+    "fr": "tripod",
+    "tn": "tripod",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "trombone": {
+    "hauteur": 0.5,
+    "fr": "trombone",
+    "tn": "trombone",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "trousers": {
+    "hauteur": 0.5,
+    "fr": "trousers",
+    "tn": "trousers",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "truck": {
+    "hauteur": 2.5,
+    "fr": "camion",
+    "tn": "كاميون",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "trumpet": {
+    "hauteur": 0.5,
+    "fr": "trompette",
+    "tn": "ترومبيت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "turkey": {
+    "hauteur": 0.5,
+    "fr": "turkey",
+    "tn": "turkey",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "turtle": {
+    "hauteur": 0.5,
+    "fr": "tortue marine",
+    "tn": "turtle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "tv": {
+    "hauteur": 0.6,
+    "fr": "tv",
+    "tn": "tv",
+    "in_yolo": true,
+    "in_oi": false
+  },
+  "umbrella": {
+    "hauteur": 1.0,
+    "fr": "parapluie",
+    "tn": "مظلة",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "unicycle": {
+    "hauteur": 0.5,
+    "fr": "unicycle",
+    "tn": "unicycle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "van": {
+    "hauteur": 1.8,
+    "fr": "camionnette",
+    "tn": "فان",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "vase": {
+    "hauteur": 0.3,
+    "fr": "vase",
+    "tn": "فاز",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "vegetable": {
+    "hauteur": 0.5,
+    "fr": "vegetable",
+    "tn": "vegetable",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "vehicle": {
+    "hauteur": 0.5,
+    "fr": "vehicle",
+    "tn": "vehicle",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "vehicle registration plate": {
+    "hauteur": 0.5,
+    "fr": "vehicle registration plate",
+    "tn": "vehicle registration plate",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "violin": {
+    "hauteur": 0.5,
+    "fr": "violon",
+    "tn": "كمان",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "volleyball (ball)": {
+    "hauteur": 0.5,
+    "fr": "volleyball (ball)",
+    "tn": "volleyball (ball)",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "waffle": {
+    "hauteur": 0.5,
+    "fr": "gaufre",
+    "tn": "غوفر",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "waffle iron": {
+    "hauteur": 0.5,
+    "fr": "waffle iron",
+    "tn": "waffle iron",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wall clock": {
+    "hauteur": 0.5,
+    "fr": "wall clock",
+    "tn": "wall clock",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wardrobe": {
+    "hauteur": 1.9,
+    "fr": "armoire",
+    "tn": "أرموار",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "washing machine": {
+    "hauteur": 0.9,
+    "fr": "machine à laver",
+    "tn": "washing machine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "waste container": {
+    "hauteur": 0.5,
+    "fr": "waste container",
+    "tn": "waste container",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "watch": {
+    "hauteur": 0.04,
+    "fr": "montre",
+    "tn": "ساعة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "watercraft": {
+    "hauteur": 0.5,
+    "fr": "watercraft",
+    "tn": "watercraft",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "watermelon": {
+    "hauteur": 0.5,
+    "fr": "pastèque",
+    "tn": "دلاع",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "weapon": {
+    "hauteur": 0.5,
+    "fr": "weapon",
+    "tn": "weapon",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "whale": {
+    "hauteur": 0.5,
+    "fr": "baleine",
+    "tn": "حوت",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wheel": {
+    "hauteur": 0.5,
+    "fr": "wheel",
+    "tn": "wheel",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wheelchair": {
+    "hauteur": 1.0,
+    "fr": "fauteuil roulant",
+    "tn": "كرسي معاق",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "whisk": {
+    "hauteur": 0.5,
+    "fr": "whisk",
+    "tn": "whisk",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "whiteboard": {
+    "hauteur": 0.5,
+    "fr": "whiteboard",
+    "tn": "whiteboard",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "willow": {
+    "hauteur": 0.5,
+    "fr": "willow",
+    "tn": "willow",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "window": {
+    "hauteur": 1.2,
+    "fr": "fenêtre",
+    "tn": "شباك",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "window blind": {
+    "hauteur": 0.5,
+    "fr": "window blind",
+    "tn": "window blind",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wine": {
+    "hauteur": 0.5,
+    "fr": "wine",
+    "tn": "wine",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wine glass": {
+    "hauteur": 0.5,
+    "fr": "verre à vin",
+    "tn": "كاس",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "wine rack": {
+    "hauteur": 0.5,
+    "fr": "wine rack",
+    "tn": "wine rack",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "winter melon": {
+    "hauteur": 0.5,
+    "fr": "winter melon",
+    "tn": "winter melon",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wok": {
+    "hauteur": 0.5,
+    "fr": "wok",
+    "tn": "wok",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "woman": {
+    "hauteur": 1.65,
+    "fr": "femme",
+    "tn": "مرا",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wood-burning stove": {
+    "hauteur": 0.5,
+    "fr": "wood-burning stove",
+    "tn": "wood-burning stove",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "woodpecker": {
+    "hauteur": 0.5,
+    "fr": "woodpecker",
+    "tn": "woodpecker",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "worm": {
+    "hauteur": 0.5,
+    "fr": "worm",
+    "tn": "worm",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "wrench": {
+    "hauteur": 0.5,
+    "fr": "clé anglaise",
+    "tn": "كلاو فرنسي",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "zebra": {
+    "hauteur": 1.5,
+    "fr": "zèbre",
+    "tn": "حمار وحشي",
+    "in_yolo": true,
+    "in_oi": true
+  },
+  "zucchini": {
+    "hauteur": 0.5,
+    "fr": "courgette",
+    "tn": "قرعة",
+    "in_yolo": false,
+    "in_oi": true
+  },
+  "enfant": {
+    "hauteur": 1.2,
+    "fr": "enfant",
+    "tn": "طفل",
+    "in_yolo": false,
+    "cnn_subclass_of": "person"
+  },
+  "adulte": {
+    "hauteur": 1.7,
+    "fr": "adulte",
+    "tn": "بالغ",
+    "in_yolo": false,
+    "cnn_subclass_of": "person"
+  },
+  "personne_agee": {
+    "hauteur": 1.65,
+    "fr": "personne âgée",
+    "tn": "كبير في السن",
+    "in_yolo": false,
+    "cnn_subclass_of": "person"
+  }
+}

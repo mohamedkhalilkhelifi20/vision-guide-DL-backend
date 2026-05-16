@@ -1,2 +1,32 @@
-.idea
-backend.iml
+# ── Environnement Python ──────────────────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Modèles ML — NE JAMAIS POUSHER ──────────────────────────────────────────
+# Trop lourds pour Git (100 MB+), stockés sur Google Drive / Hugging Face
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.tflite
+
+# ── Variables d'environnement ─────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

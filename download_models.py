@@ -2,6 +2,7 @@
 Script de téléchargement des modèles ML
 ========================================
 Utilise gdown pour Google Drive (gère la confirmation anti-virus automatiquement).
+Compatible gdown 6.0.0+
 """
 
 import os
@@ -54,10 +55,11 @@ MIN_SIZE_BYTES = 1 * 1024 * 1024  # 1 MB minimum
 
 
 def download_gdrive(file_id: str, dest: str) -> bool:
-    """Télécharge depuis Google Drive avec gdown (gère la confirmation automatiquement)."""
+    """Télécharge depuis Google Drive avec gdown 6.0.0+ (sans fuzzy)."""
     try:
         url = f"https://drive.google.com/uc?id={file_id}"
-        gdown.download(url, dest, quiet=False, fuzzy=True)
+        # ✅ gdown 6.0.0 — plus de paramètre 'fuzzy'
+        gdown.download(url, dest, quiet=False)
 
         if not os.path.exists(dest):
             print(f"   Fichier non créé après téléchargement")
@@ -66,9 +68,10 @@ def download_gdrive(file_id: str, dest: str) -> bool:
         size_mb = os.path.getsize(dest) / (1024 * 1024)
         if os.path.getsize(dest) < MIN_SIZE_BYTES:
             os.remove(dest)
-            print(f"   Fichier trop petit ({size_mb:.2f} MB) — probablement une page HTML")
+            print(f"   Fichier trop petit ({size_mb:.2f} MB) — page HTML Google")
+            print(f"     → Vérifiez que le fichier est partagé publiquement.")
             return False
-        
+
         print(f"   {os.path.basename(dest)} ({size_mb:.1f} MB)")
         return True
 
@@ -92,7 +95,7 @@ def download_direct(url: str, dest: str) -> bool:
                 downloaded += len(chunk)
 
         size_mb = downloaded / (1024 * 1024)
-        print(f"  {os.path.basename(dest)} ({size_mb:.1f} MB)")
+        print(f"   {os.path.basename(dest)} ({size_mb:.1f} MB)")
         return True
 
     except Exception as e:
@@ -113,7 +116,7 @@ def main():
         if os.path.exists(dest):
             size_mb = os.path.getsize(dest) / (1024 * 1024)
             if os.path.getsize(dest) < MIN_SIZE_BYTES:
-                print(f"   {filename} corrompu ({size_mb:.2f} MB) — re-téléchargement")
+                print(f"    {filename} corrompu ({size_mb:.2f} MB) — re-téléchargement")
                 os.remove(dest)
             else:
                 print(f"  ⏭  {filename} déjà présent ({size_mb:.1f} MB) — skip")
@@ -121,7 +124,7 @@ def main():
 
         url = config["url"]
         if not url:
-            print(f"   {filename} — URL non configurée")
+            print(f"    {filename} — URL non configurée")
             continue
 
         print(f"\n   {filename}")

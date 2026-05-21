@@ -51,7 +51,7 @@ MODELS = {
 }
 
 MODEL_DIR = "models"
-MIN_SIZE_BYTES = 1 * 1024 * 1024  # 1 MB minimum
+MIN_SIZE_BYTES = 13 * 1024 * 1024
 
 
 def download_gdrive(file_id: str, dest: str) -> bool:

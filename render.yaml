@@ -18,10 +18,9 @@ services:
         value: https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt
 
       - key: MODEL_CNN_PERSON_URL
-        value: ""   # ← coller le lien Google Drive de mobilenetv2_fairface.pth
+        value: "https://drive.google.com/file/d/12iyiWnD-6k120jBezuOZqAWm1zMdiUoH/view?usp=drive_link"
 
       - key: MODEL_YOLO_STAIRS_URL
-        value: ""   # ← coller le lien Google Drive de yolov8n_stairs.pt
-
+        value: "https://drive.google.com/file/d/1Z4cNAu4ku-_RPK7HL5nCs6Ih-gYeMtBU/view?usp=drive_link" 
       - key: MODEL_CNN_STAIRS_URL
-        value: ""   # ← coller le lien Google Drive de convnext_stairs.pth
+        value: "https://drive.google.com/file/d/1wbcLE6b1Ws2vWabDutUXTKhhgwSRa-pQ/view?usp=drive_link" 

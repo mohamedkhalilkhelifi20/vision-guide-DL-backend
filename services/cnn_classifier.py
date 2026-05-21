@@ -25,7 +25,7 @@ CNN_REFINEMENTS = {
     # Modèle : MobileNetV2 fine-tuné sur FairFace
     "person": {
         "model_path": "models/mobilenet_fairface.pth",
-        "classes":    ["enfant", "adulte", "personne_agee"],
+        "classes": ["adulte", "enfant", "personne_agee"],
         "threshold":  0.60,
         "model_type": "mobilenetv2",
     },

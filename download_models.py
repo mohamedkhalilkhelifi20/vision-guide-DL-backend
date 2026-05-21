@@ -52,8 +52,6 @@ MODELS = {
 
 MODEL_DIR = "models"
 
-# ✅ FIX 1 — seuil abaissé à 1 MB (juste pour détecter les pages HTML Google)
-# Avant : 13 MB → rejetait mobilenet (10.5 MB) et yolov8n_stairs (6.2 MB) à tort
 MIN_SIZE_BYTES = 1 * 1024 * 1024  # 1 MB
 
 

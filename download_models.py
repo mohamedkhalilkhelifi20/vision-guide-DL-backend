@@ -51,15 +51,23 @@ MODELS = {
 }
 
 MODEL_DIR = "models"
-MIN_SIZE_BYTES = 13 * 1024 * 1024
+
+# ✅ FIX 1 — seuil abaissé à 1 MB (juste pour détecter les pages HTML Google)
+# Avant : 13 MB → rejetait mobilenet (10.5 MB) et yolov8n_stairs (6.2 MB) à tort
+MIN_SIZE_BYTES = 1 * 1024 * 1024  # 1 MB
 
 
 def download_gdrive(file_id: str, dest: str) -> bool:
-    """Télécharge depuis Google Drive avec gdown 6.0.0+ (sans fuzzy)."""
+    """Télécharge depuis Google Drive avec gdown 6.0.0+.
+    
+    Utilise fuzzy=True pour gérer la confirmation Google sur les gros fichiers (>100 MB).
+    Sans ça, Google renvoie une page HTML au lieu du fichier — c'était le bug de convnext_stairs.
+    """
     try:
+        # ✅ FIX 2 — fuzzy=True gère automatiquement la confirmation Google Drive
+        # Nécessaire pour les fichiers > ~100 MB (ex: convnext_stairs.pth = 111 MB)
         url = f"https://drive.google.com/uc?id={file_id}"
-        # ✅ gdown 6.0.0 — plus de paramètre 'fuzzy'
-        gdown.download(url, dest, quiet=False)
+        gdown.download(url, dest, quiet=False, fuzzy=True)
 
         if not os.path.exists(dest):
             print(f"   Fichier non créé après téléchargement")
@@ -72,7 +80,7 @@ def download_gdrive(file_id: str, dest: str) -> bool:
             print(f"     → Vérifiez que le fichier est partagé publiquement.")
             return False
 
-        print(f"   {os.path.basename(dest)} ({size_mb:.1f} MB)")
+        print(f"   ✅ {os.path.basename(dest)} ({size_mb:.1f} MB)")
         return True
 
     except Exception as e:
@@ -95,7 +103,7 @@ def download_direct(url: str, dest: str) -> bool:
                 downloaded += len(chunk)
 
         size_mb = downloaded / (1024 * 1024)
-        print(f"   {os.path.basename(dest)} ({size_mb:.1f} MB)")
+        print(f"   ✅ {os.path.basename(dest)} ({size_mb:.1f} MB)")
         return True
 
     except Exception as e:

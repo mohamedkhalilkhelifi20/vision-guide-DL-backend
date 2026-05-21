@@ -13,7 +13,8 @@ RUN pip uninstall -y opencv-python && pip install --no-cache-dir opencv-python-h
 
 COPY . .
 
-# ❌ Supprime cette ligne — Railway s'en occupe via Pre-deploy Command
-# RUN python download_models.py
+# ✅ Télécharge les modèles pendant le BUILD — intégrés dans l'image Docker
+# Les fichiers restent disponibles à chaque démarrage du container
+RUN python download_models.py
 
 CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}"]

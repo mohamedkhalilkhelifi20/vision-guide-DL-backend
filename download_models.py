@@ -1,14 +1,12 @@
 """
 Script de téléchargement des modèles ML
 ========================================
-Utilise gdown pour Google Drive (gère la confirmation anti-virus automatiquement).
-Compatible gdown 6.0.0+
+Compatible gdown 6.0.0
 """
 
 import os
 import gdown
 
-# ── CONFIGURATION ─────────────────────────────────────────────────────────────
 
 def _extract_id(url: str) -> str:
     """Extrait le FILE_ID depuis une URL Google Drive."""
@@ -51,21 +49,14 @@ MODELS = {
 }
 
 MODEL_DIR = "models"
-
 MIN_SIZE_BYTES = 1 * 1024 * 1024  # 1 MB
 
 
 def download_gdrive(file_id: str, dest: str) -> bool:
-    """Télécharge depuis Google Drive avec gdown 6.0.0+.
-    
-    Utilise fuzzy=True pour gérer la confirmation Google sur les gros fichiers (>100 MB).
-    Sans ça, Google renvoie une page HTML au lieu du fichier — c'était le bug de convnext_stairs.
-    """
+    """Télécharge depuis Google Drive avec gdown 6.0.0 via id=."""
     try:
-        # ✅ FIX 2 — fuzzy=True gère automatiquement la confirmation Google Drive
-        # Nécessaire pour les fichiers > ~100 MB (ex: convnext_stairs.pth = 111 MB)
-        url = f"https://drive.google.com/uc?id={file_id}"
-        gdown.download(url, dest, quiet=False, fuzzy=True)
+        # ✅ gdown 6.0.0 : utiliser id= au lieu de l'URL (pas de fuzzy)
+        gdown.download(id=file_id, output=dest, quiet=False)
 
         if not os.path.exists(dest):
             print(f"   Fichier non créé après téléchargement")
@@ -118,19 +109,18 @@ def main():
     for filename, config in MODELS.items():
         dest = os.path.join(MODEL_DIR, filename)
 
-        # Déjà présent et valide → skip
         if os.path.exists(dest):
             size_mb = os.path.getsize(dest) / (1024 * 1024)
             if os.path.getsize(dest) < MIN_SIZE_BYTES:
-                print(f"    {filename} corrompu ({size_mb:.2f} MB) — re-téléchargement")
+                print(f"   ⚠️  {filename} corrompu ({size_mb:.2f} MB) — re-téléchargement")
                 os.remove(dest)
             else:
-                print(f"  ⏭  {filename} déjà présent ({size_mb:.1f} MB) — skip")
+                print(f"   ⏭  {filename} déjà présent ({size_mb:.1f} MB) — skip")
                 continue
 
         url = config["url"]
         if not url:
-            print(f"    {filename} — URL non configurée")
+            print(f"   ❌ {filename} — URL non configurée")
             continue
 
         print(f"\n   {filename}")
